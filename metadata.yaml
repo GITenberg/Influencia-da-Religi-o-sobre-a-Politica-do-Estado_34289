@@ -1,0 +1,30 @@
+_repo: Influencia-da-Religi-o-sobre-a-Politica-do-Estado_34289
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macedo, Inácio José de
+    aliases:
+    - Macedo, Inacio Jose de
+    - Macedo, Ignacio José de
+    - De Macedo, Inácio José
+    birthdate: 1774
+    deathdate: 1834
+    gutenberg_agent_id: '36939'
+    url: http://www.gutenberg.org/2009/agents/36939
+description: ''
+gutenberg_issued: '2010-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34289'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church and state'
+- !lcc 'BV'
+title: Influencia da Religião sobre a Politica do Estado
+url: http://www.gutenberg.org/ebooks/34289
