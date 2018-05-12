@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '36939'
     url: http://www.gutenberg.org/2009/agents/36939
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34289#Influencia-da-Religi-o-sobre-a-Politica-do-Estado
 gutenberg_issued: '2010-11-12'
 gutenberg_type: Text
 identifiers:
